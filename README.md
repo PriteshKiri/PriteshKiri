@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a web developer from India developing robust code for businesses. Proficient in HTML, CSS, and JavaScript; plus modern libraries and frameworks. I am skilled in designing and developing multiple web-based applications incorporating a range of technologies with strong technical skills to excel as a Full-Stack Developer.
 
 # 💫 About Me:
-🔭 I’m currently working on Full stack application<br>👯 I’m looking to collaborate on Rect open source<br>🌱 I’m currently learning Backend development<br>💬 Ask me anything about web development<br>⚡ Fun fact - I am self-taught dev with a Mechanical Engineering degree.
+🌍  I'm based in India <br> 🔭 I’m currently working on Full stack application<br>👯 I’m looking to collaborate on Rect open source<br>🌱 I’m currently learning Backend development<br>💬 Ask me anything about web development<br>⚡ Fun fact - I am self-taught dev with a Mechanical Engineering degree. <br> ✉️  You can contact me at [pritesh.d.kiri@gmail.com](mailto:pritesh.d.kiri@gmail.com)
 
 
 ## 🌐 Socials:
