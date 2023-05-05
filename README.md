@@ -23,8 +23,4 @@ I am a web developer from India developing robust code for businesses. Proficien
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=PriteshKiri&icon=6&color=3)](https://visitcount.itsvg.in)
