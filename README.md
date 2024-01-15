@@ -5,7 +5,7 @@ My name is Pritesh Kiri
 I am a web developer from India developing robust code for businesses. Proficient in HTML, CSS, and JavaScript; plus modern libraries and frameworks. I am skilled in designing and developing multiple web-based applications incorporating a range of technologies with strong technical skills to excel as a Full-Stack Developer.
 
 # 💫 About Me:
-🌍  I'm based in India <br> 🔭 I’m currently working on Productivity tool <br>👯 I’m looking to collaborate on Rect open source<br>🌱 I’m currently learning Backend development<br>💬 Ask me anything about web development<br>⚡ Fun fact - I am self-taught dev with a Mechanical Engineering degree. <br> 🖥️ See My Portfolio: https://priteshkiri.netlify.app/ <br> ✉️  You can contact me at [pritesh.d.kiri@gmail.com](mailto:pritesh.d.kiri@gmail.com) 
+🌍  I'm based in India <br> 🔭 I’m currently working on AI chrome extension <br>👯 I’m looking to collaborate with tech communites<br>🌱 I’m currently building Humans of tech<br>💬 Ask me anything about web development<br>⚡ Fun fact - I am self-taught dev with a Mechanical Engineering degree. <br> 🖥️ See My Portfolio: https://codewithcoffee.in <br> ✉️  You can contact me at [pritesh.d.kiri@gmail.com](mailto:pritesh.d.kiri@gmail.com) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritesh-kiri-31670a154/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PriteshKiri) 
