@@ -2,7 +2,7 @@ Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Pritesh Kiri
 ====================================================================================================================================
 
-I am a web developer from India developing robust code for businesses. Proficient in HTML, CSS, and JavaScript; plus modern libraries and frameworks. I am skilled in designing and developing multiple web-based applications incorporating a range of technologies with strong technical skills to excel as a Full-Stack Developer.
+A creative software developer, a developer relations professional, a tech content creator, and a tech speaker/host. Currently working at Tooljet as Developer Advocate. Apart from that I'm community head at Reactplay.io and founder at Humans of Tech.
 
 # 💫 About Me:
 🌍  I'm based in India <br> 🔭 I’m currently working on AI chrome extension <br>👯 I’m looking to collaborate with tech communites<br>🌱 I’m currently building Humans of tech<br>💬 Ask me anything about web development<br>⚡ Fun fact - I am self-taught dev with a Mechanical Engineering degree. <br> 🖥️ See My Portfolio: https://codewithcoffee.in <br> ✉️  You can contact me at [pritesh.d.kiri@gmail.com](mailto:pritesh.d.kiri@gmail.com) 
