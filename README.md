@@ -2,10 +2,10 @@ Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Pritesh Kiri
 ====================================================================================================================================
 
-A creative software developer, a developer relations professional, a tech content creator, and a tech speaker/host. Currently working at Tooljet as Developer Advocate. Apart from that I'm community head at Reactplay.io and founder at Humans of Tech.
+A creative software developer, a developer relations professional, a tech content creator, and a tech speaker/host. Currently working at Harness as a Community Manager. Apart from that, I'm the community head at Reactplay.io and founder at Humans of Tech.
 
 # 💫 About Me:
-🌍  I'm based in India <br> 🔭  I'm currently working at Harness as a Community Manager. I take care of the Litmus Chaos Community <br>👯 I’m looking to collaborate with tech communites<br>🌱 I’m currently building Humans of tech<br>💬 Ask me anything about web development<br>⚡ Fun fact - I am self-taught dev with a Mechanical Engineering degree. <br> 🖥️ See My Portfolio: https://codewithcoffee.in <br> ✉️  You can contact me at [pritesh.d.kiri@gmail.com](mailto:pritesh.d.kiri@gmail.com) 
+🌍  I'm based in India <br> 🔭  I'm currently working at Harness as a Community Manager. I take care of the Litmus Chaos Community <br>👯 I’m looking to collaborate with tech communities <br>🌱 I’m currently building Humans of tech<br>💬 Ask me anything about web development<br>⚡ Fun fact - I am a self-taught dev with a Mechanical Engineering degree. <br> 🖥️ See My Portfolio: https://codewithcoffee.in <br> ✉️  You can contact me at [pritesh.d.kiri@gmail.com](mailto:pritesh.d.kiri@gmail.com) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritesh-kiri-31670a154/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PriteshKiri) 
